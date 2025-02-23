@@ -1,4 +1,4 @@
-### ScratchBlocks中文积木样式代码分享
+### ScratchBlocks中文积木代码分享
 我在scrachblocks里复刻了中文scratch积木，如有错误请予以反馈~  
 **相关链接**：  
 积木图片生成网站：[`scratchblocks.github.io`](scratchblocks.github.io "点击跳转")  
